@@ -14,14 +14,6 @@ Our maintainers will review your contributions, provide feedback, and work with 
 
 We maintain a friendly and inclusive community. Please read and abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 📂 Repository Structure
-
-Our repository is organized into the following directories:
-
-- `ai_ml/`: This directory houses AI/ML-related projects, algorithms, and libraries.
-- `webdev/`: Here, you'll find projects and resources related to Web Development.
-- `docs/`: Contains documentation, guidelines, and project-related information.
-
 ## 📝 License
 
 All projects under TheFreedomCode are open-source and licensed under the [MIT License](LICENSE).
